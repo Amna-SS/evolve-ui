@@ -25,7 +25,7 @@ export default function SettingsPage() {
         <CardHeader>
           <CardTitle>Settings</CardTitle>
           <CardDescription>
-            Manage your account preferences and settings
+            Manage your account preferences and settings Accordingly
           </CardDescription>
         </CardHeader>
         <CardContent>

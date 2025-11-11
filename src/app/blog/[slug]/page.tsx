@@ -65,7 +65,7 @@ The template follows Next.js 16 App Router conventions:
 Now that you're set up, try exploring the other routes like /dashboard to see more complex layouts in action!
     `,
   },
-  "nextjs-routing": {
+  "nextjs-routing123": {
     title: "Understanding Next.js App Router",
     date: "2024-01-20",
     category: "Guide",

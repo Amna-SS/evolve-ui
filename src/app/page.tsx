@@ -26,8 +26,8 @@ export default async function Home() {
                 <span className="text-primary">Evolve-UI</span>
               </h1>
               <p className="mx-auto max-w-[700px] text-muted-foreground text-lg sm:text-xl">
-                From API to UI — where pixels meet products. A modern Next.js
-                starter with shadcn/ui, dark mode, and best practices built in.
+                From API to UI — a modern Next.js starter uniting pixels and products with shadcn/ui, dark mode, and built-in best practices.
+
               </p>
             </div>
             <div className="flex flex-wrap items-center justify-center gap-2">
@@ -72,8 +72,8 @@ export default async function Home() {
                 </div>
                 <CardTitle>Beautiful UI</CardTitle>
                 <CardDescription>
-                  Built with shadcn/ui components and Tailwind CSS for a modern,
-                  polished look
+                  Built with shadcn/ui and Tailwind CSS for a sleek, modern finish.
+
                 </CardDescription>
               </CardHeader>
             </Card>

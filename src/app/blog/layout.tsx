@@ -30,7 +30,7 @@ export default function BlogLayout({ children }: { children: ReactNode }) {
                 Getting Started
               </Link>
               <Link
-                href="/blog/nextjs-routing"
+                href="/blog/nextjs-routing123"
                 className="block text-sm text-muted-foreground hover:text-foreground transition-colors"
               >
                 Next.js Routing

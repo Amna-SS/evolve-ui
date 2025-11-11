@@ -26,7 +26,7 @@ const blogPosts = [
     category: "Tutorial",
   },
   {
-    slug: "nextjs-routing",
+    slug: "nextjs-routing123",
     title: "Understanding Next.js App Router",
     description:
       "A deep dive into the Next.js App Router, nested layouts, and routing patterns.",
@@ -73,7 +73,7 @@ export default function BlogPage() {
                   year: "numeric",
                 })}
               </span>
-              <Button variant="outline" asChild>
+              <Button variant="outline" asChild className="border-red-600 text-red-600 hover:bg-red-600 hover:text-white">
                 <Link href={`/blog/${post.slug}`}>Read More</Link>
               </Button>
             </CardFooter>
