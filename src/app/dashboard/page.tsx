@@ -19,7 +19,7 @@ export default function DashboardPage() {
         <CardHeader>
           <CardTitle>Overview</CardTitle>
           <CardDescription>
-            Welcome to your dashboard overview
+            Welcome to the overview of your dashboard
           </CardDescription>
         </CardHeader>
         <CardContent>

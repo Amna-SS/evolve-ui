@@ -23,7 +23,7 @@ export default function AboutPage() {
               About Evolve-UI
             </h1>
             <p className="text-xl text-muted-foreground">
-              From API to UI — where pixels meet products.
+              From API to UI — where pixels meet products according to the criteria
             </p>
             <p className="text-muted-foreground">
               A comprehensive Next.js learning template built with modern best
@@ -40,7 +40,7 @@ export default function AboutPage() {
             {/* What is Evolve-UI */}
             <Card>
               <CardHeader>
-                <CardTitle className="text-2xl">What is Evolve-UI?</CardTitle>
+                 <CardTitle className="text-2xl text-green-600">What is Evolve-UI?</CardTitle>
                 <CardDescription>
                   A comprehensive Next.js learning template
                 </CardDescription>

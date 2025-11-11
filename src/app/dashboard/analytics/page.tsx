@@ -19,12 +19,12 @@ export default function AnalyticsPage() {
         <CardHeader>
           <CardTitle>Analytics</CardTitle>
           <CardDescription>
-            Track your performance and growth metrics
+            Track your performance and growth metrics with analytics
           </CardDescription>
         </CardHeader>
         <CardContent>
           <p className="text-muted-foreground mb-4">
-            Notice how the sidebar navigation persists as you navigate between
+           NOTICE how the sidebar navigation persists as you navigate between
             dashboard pages. This is the power of nested layouts!
           </p>
           <Badge>This is a nested route: /dashboard/analytics</Badge>
